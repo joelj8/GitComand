@@ -13,11 +13,3 @@ Contacto	0012
 Contacto	0013
 Contacto	0014
 Contacto	0015
-Contacto	XX16
-Contacto	XX17
-Contacto	XX18
-Contacto	XX19
-Contacto	XX20
-Contacto	ZZ18
-Contacto	ZZ19
-Contacto	ZZ20
